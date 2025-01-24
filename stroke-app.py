@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import joblib
 from sklearn import datasets
-import matplotlib.pyplot as plt 
 
 # Load the pre-trained model
 model = joblib.load('stroke_rf.pkl')
