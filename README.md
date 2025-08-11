@@ -28,7 +28,8 @@ This project:
 ```
 MLDP_Proj/
 ├─ healthcare-dataset-stroke-data.csv     # Input dataset
-├─ notebook_or_script.ipynb / .py         # Analysis and model training code
+├─ stroke.ipynb        # Analysis and model training code
+├─ stroke-app.py       # Streamlit application for interactive stroke risk prediction using the trained model
 ├─ stroke_qda.pkl                          # Final saved model
 ├─ requirements.txt                        # (optional) environment dependencies
 └─ README.md
