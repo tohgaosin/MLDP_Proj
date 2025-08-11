@@ -168,7 +168,7 @@ print(clf.predict(x))  # '0' or '1'
 
 ## 🌐 Streamlit App
 
-Interactive app link: **[https://mldpproj-gcdwdjkwxswbdosyejvjjq.streamlit.app/](#)** *
+https://mldpproj-gcdwdjkwxswbdosyejvjjq.streamlit.app
 
 ---
 
