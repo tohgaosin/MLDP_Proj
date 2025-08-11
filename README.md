@@ -1,13 +1,3 @@
-Alright — here’s the regenerated **README.md** for your repo,
-now incorporating:
-
-* Clear statement that the project is **to predict stroke**.
-* SMOTE before/after counts.
-* Positive justification for choosing QDA.
-* Feature importance explanation (why `gender_Other`, `work_type_Never_worked`, and `work_type_children` were dropped).
-
----
-
 # 🧠 Stroke Prediction (MLDP\_Proj)
 
 A supervised machine learning project to **predict stroke risk** from demographic, clinical, and lifestyle data.
