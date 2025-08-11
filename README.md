@@ -19,7 +19,6 @@ This project:
 * Tunes and selects **QDA** for its superior **recall** on the stroke (positive) class.
 * Drops features with **zero tree-based feature importance**.
 * Saves the trained model with `joblib` for deployment.
-* *(Optional)* Deploys as a Streamlit app — **[Streamlit App Link](#)** *(placeholder)*
 
 ---
 
